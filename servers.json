@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Miigg",
+            "address": "https://anisette-v3-server-miigg.onrender.com"
+        }
+    ]
+}
